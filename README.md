@@ -1,6 +1,6 @@
 # Very Best Debug
 
-Here is the [target app](http://very-best-debug.matchthetarget.com/)
+Here is the [target app](http://very-best-debugra.matchthetarget.com/)
 
 ## Standard Workflow
 
