@@ -57,7 +57,7 @@
   <% @the_venue.comments.each do |comment| %>
   <tr>
     <td>
-      <%= comment.id %>
+      <%= comment.commenter.username %>
     </td>
 
     <td>
@@ -65,7 +65,7 @@
     </td>
 
     <td>
-      <%= comment.created_at %>
+      <%= comment.created_at%>
     </td>
   </tr>
   
